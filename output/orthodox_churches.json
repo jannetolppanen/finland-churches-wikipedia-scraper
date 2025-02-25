@@ -1,0 +1,542 @@
+[
+    {
+        "name": "Ahveniston pyhän Johannes Kastajan mestauksen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Ahveniston_ortodoksinen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Espoon pyhittäjä Herman Alaskalaisen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tapiolan_ortodoksinen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Haminan Jumalanäidin kaikkien murheellisten ilon ikonin kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Haminan_hautausmaankirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Haminan Pyhien apostolien Pietarin ja Paavalin kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Haminan_Pyhien_apostolien_Pietarin_ja_Paavalin_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Hangon pyhien apostolienvertaisten Vladimirin ja Maria Magdaleenan kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Hangon_ortodoksinen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Hattuvaaran pyhien apostolien Pietarin ja Paavalin tsasouna",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Hattuvaaran_tsasouna",
+        "coordinates": {}
+    },
+    {
+        "name": "Heinolan Kristuksen taivaaseen astumisen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Heinolan_Kristuksen_taivaaseen_astumisen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Helsingin pyhän Eliaan kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Helsingin_pyh%C3%A4n_Eliaan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Helsingin pyhän Kolminaisuuden kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4n_Kolminaisuuden_kirkko_(Helsinki)",
+        "coordinates": {}
+    },
+    {
+        "name": "Hoilolan Pyhän Nikolaoksen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Hoilolan_ortodoksinen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Hyvinkään ortodoksinen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Hyvink%C3%A4%C3%A4n_ortodoksinen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Hämeenlinnan pyhien Aleksanteri Nevskin ja Johannes Krysostomoksen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/H%C3%A4meenlinnan_ortodoksinen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Iisalmen profeetta Elian kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Iisalmen_profeetta_Elian_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Ilomantsin pyhän profeetta Elian kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Ilomantsin_ortodoksinen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Imatran pyhän Nikolaoksen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Imatran_pyh%C3%A4n_Nikolaoksen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Ivalon pyhän Nikolaoksen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Ivalon_pyh%C3%A4n_Nikolaoksen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Joensuun pyhän Nikolaoksen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4n_Nikolaoksen_kirkko_(Joensuu)",
+        "coordinates": {}
+    },
+    {
+        "name": "Joensuun Pyhän Johannes Teologin kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Joensuun_Pyh%C3%A4n_Johannes_Teologin_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Juankosken Jumalansynnyttäjän suojeluksen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Juankosken_Jumalansynnytt%C3%A4j%C3%A4n_suojeluksen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Jyväskylän Kristuksen ylösnousemuksen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Jyv%C3%A4skyl%C3%A4n_Kristuksen_yl%C3%B6snousemuksen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Järvenpään Jumalansynnyttäjän kasanilaisen ikonin kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/J%C3%A4rvenp%C3%A4%C3%A4n_ortodoksinen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Kaikkien Valamon pyhien kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kaikkien_Valamon_pyhien_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Kajaanin Kristuksen kirkastumisen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kajaanin_Kristuksen_kirkastumisen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Karstulan Jumalansynnyttäjän syntymän tsasouna",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Karstulan_Jumalansynnytt%C3%A4j%C3%A4n_syntym%C3%A4n_tsasouna",
+        "coordinates": {}
+    },
+    {
+        "name": "Kausalan Neitseen Marian syntymän tsasouna",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kausalan_Neitseen_Marian_syntym%C3%A4n_tsasouna",
+        "coordinates": {}
+    },
+    {
+        "name": "Keiteleen pyhittäjä Arseni Konevitsalaisen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Keiteleen_pyhitt%C3%A4j%C3%A4_Arseni_Konevitsalaisen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Kemin Johannes Kastajan syntymän kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kemin_ortodoksinen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Kiteen pyhän Kolminaisuuden ja pyhän Nektarios Eginalaisen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kiteen_ortodoksinen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Kiuruveden pyhän Nikolaoksen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kiuruveden_pyh%C3%A4n_Nikolaoksen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Klaukkalan pyhän Nektarios Eginalaisen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Klaukkalan_ortodoksinen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Kokkolan Pyhien Simeonin ja Hannan rukoushuone",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kokkolan_Pyhien_Simeonin_ja_Hannan_rukoushuone",
+        "coordinates": {}
+    },
+    {
+        "name": "Kontiolahden Kristuksen taivaaseenastumisen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kontiolahden_Kristuksen_taivaaseenastumisen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Kolhon Karjalan valistajain kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kolhon_Karjalan_valistajain_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Kotkan pyhän Nikolaoksen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4n_Nikolaoksen_kirkko_(Kotka)",
+        "coordinates": {}
+    },
+    {
+        "name": "Kouvolan Pyhän Ristin kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4n_Ristin_kirkko_(Kouvola)",
+        "coordinates": {}
+    },
+    {
+        "name": "Kuivajärven Pyhän Nikolaoksen tsasouna",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kuivaj%C3%A4rven_Pyh%C3%A4n_Nikolaoksen_tsasouna",
+        "coordinates": {}
+    },
+    {
+        "name": "Lahden pyhän Kolminaisuuden kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4n_Kolminaisuuden_kirkko_(Lahti)",
+        "coordinates": {}
+    },
+    {
+        "name": "Lapinlahden kaikkien pyhien kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lapinlahden_kaikkien_pyhien_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Lappeenrannan Jumalansynnyttäjän suojeluksen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lappeenrannan_Jumalansynnytt%C3%A4j%C3%A4n_suojeluksen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Lintulan Jumalansynnyttäjän Jerusalemin ikonin tsasouna",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lintulan_luostari",
+        "coordinates": {}
+    },
+    {
+        "name": "Lintulan pyhittäjämarttyyri Paraskevan tšasouna",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lintulan_luostari",
+        "coordinates": {}
+    },
+    {
+        "name": "Lintulan pyhän Kolminaisuuden kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lintulan_pyh%C3%A4n_Kolminaisuuden_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Lohjan kaikkien pyhien tšasouna",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lohjan_kaikkien_pyhien_t%C5%A1asouna",
+        "coordinates": {}
+    },
+    {
+        "name": "Lohjan Karjalan Valistajien kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lohjan_ortodoksinen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Maaningan Karjalan Valistajien kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Maaningan_Karjalan_Valistajien_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Mikkelin pyhän ylienkeli Mikaelin kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Mikkelin_pyh%C3%A4n_ylienkeli_Mikaelin_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Nellimin Pyhän kolminaisuuden ja pyhittäjä Trifon Petsamolaisen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Nellimin_Pyh%C3%A4n_kolminaisuuden_ja_pyhitt%C3%A4j%C3%A4_Trifon_Petsamolaisen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Nilsiän pyhän Johannes Kastajan kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Nilsi%C3%A4n_ortodoksinen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Nivalan Kristuksen kirkastumisen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Nivalan_Kristuksen_kirkastumisen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Nummelan Jumalansynnyttäjän Neitseen Marian syntymän rukoushuone",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Nummelan_Jumalansynnytt%C3%A4j%C3%A4n_Neitseen_Marian_syntym%C3%A4n_rukoushuone",
+        "coordinates": {}
+    },
+    {
+        "name": "Nurmeksen apostolien Pietarin ja Paavalin kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Nurmeksen_apostolien_Pietarin_ja_Paavalin_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Outokummun Pyhän Hengen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Outokummun_ortodoksinen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Pieksämäen Neitsyt Marian syntymän kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pieks%C3%A4m%C3%A4en_Neitsyt_Marian_syntym%C3%A4n_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Pielaveden apostolien Pietarin ja Paavalin kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pielaveden_ortodoksinen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Polvijärven Johannes Kastajan kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Polvij%C3%A4rven_Pyh%C3%A4n_Johannes_Kastajan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Porin apostoli Johannes Teologin kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Porin_ortodoksinen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Porvoon Kristuksen kirkastumisen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Porvoon_Kristuksen_kirkastumisen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Pyhän kolminaisuuden katedraali",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4n_kolminaisuuden_katedraali",
+        "coordinates": {}
+    },
+    {
+        "name": "Pyhän Nikolaoksen katedraali",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4n_Nikolaoksen_katedraali",
+        "coordinates": {}
+    },
+    {
+        "name": "Rauman pyhän Nikolaoksen tsasouna",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Rauman_pyh%C3%A4n_Nikolaoksen_tsasouna",
+        "coordinates": {}
+    },
+    {
+        "name": "Rautalammin pyhän Nikolaoksen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Rautalammin_pyh%C3%A4n_Nikolaoksen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Rovaniemen apostoli Andreaksen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Rovaniemen_apostoli_Andreaksen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Saarijärven pyhittäjä Arseni Konevitsalaisen tšasouna",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Saarij%C3%A4rven_pyhitt%C3%A4j%C3%A4_Arseni_Konevitsalaisen_t%C5%A1asouna",
+        "coordinates": {}
+    },
+    {
+        "name": "Salon pyhän Ristin tšasouna",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Salon_pyh%C3%A4n_Ristin_t%C5%A1asouna",
+        "coordinates": {}
+    },
+    {
+        "name": "Savonlinnan Pikkukirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Savonlinnan_Pikkukirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Sevettijärven pyhittäjä Trifon Petsamolaisen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sevettij%C3%A4rven_pyhitt%C3%A4j%C3%A4_Trifon_Petsamolaisen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Siilinjärven suurmarttyyri Georgios Voittajan kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Siilinj%C3%A4rven_suurmarttyyri_Georgios_Voittajan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Sonkajanrannan profeetta Hannan kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sonkajanrannan_profeetta_Hannan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Sotkuman pyhän Elian tšasouna",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sotkuman_tsasouna",
+        "coordinates": {}
+    },
+    {
+        "name": "Suonenjoen Kristuksen kirkastumisen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suonenjoen_Kristuksen_kirkastumisen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Tampereen pyhän Aleksanteri Nevalaisen ja pyhän Nikolaoksen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tampereen_ortodoksinen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Tornion apostolien Pietarin ja Paavalin kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tornion_ortodoksinen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Turun pyhän marttyyrikeisarinna Aleksandran kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Turun_ortodoksinen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Tuusniemen apostolien Pietarin ja Paavalin kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tuusniemen_ortodoksinen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Uspenskin katedraali",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Uspenskin_katedraali",
+        "coordinates": {}
+    },
+    {
+        "name": "Vaasan pyhän Nikolaoksen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4n_Nikolaoksen_kirkko_(Vaasa)",
+        "coordinates": {}
+    },
+    {
+        "name": "Valamon luostarin pyhittäjä Herman Alaskalaisen tšasouna",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Valamon_luostari_(Hein%C3%A4vesi)",
+        "coordinates": {}
+    },
+    {
+        "name": "Valamon luostarin Pyhän Johannes Edelläkävijän ja Kastajan syntymän tšasouna",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Valamon_luostari_(Hein%C3%A4vesi)",
+        "coordinates": {}
+    },
+    {
+        "name": "Valamon luostarin pyhän Nikolaoksen tšasouna",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Valamon_luostari_(Hein%C3%A4vesi)",
+        "coordinates": {}
+    },
+    {
+        "name": "Valamon luostarin pääkirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Valamon_luostarin_p%C3%A4%C3%A4kirkko_(Hein%C3%A4vesi)",
+        "coordinates": {}
+    },
+    {
+        "name": "Valamon luostarin talvikirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Valamon_luostarin_talvikirkko_(Hein%C3%A4vesi)",
+        "coordinates": {}
+    },
+    {
+        "name": "Valtimon pyhän Kolminaisuuden kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Valtimon_pyh%C3%A4n_Kolminaisuuden_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Vantaan Kristuksen taivaaseen astumisen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tikkurilan_ortodoksinen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Vesannon Johannes Kastajan syntymän rukoushuone",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Vesannon_Johannes_Kastajan_syntym%C3%A4n_rukoushuone",
+        "coordinates": {}
+    },
+    {
+        "name": "Viinijärven Jumalanäidin Tihvinän ikonin kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Viinij%C3%A4rven_Jumalan%C3%A4idin_Tihvin%C3%A4n_ikonin_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Viitasaaren Kristuksen kirkastumisen tsasouna",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Viitasaaren_Kristuksen_kirkastumisen_tsasouna",
+        "coordinates": {}
+    },
+    {
+        "name": "Äänekosken Jumalansynnyttäjän kuolonuneen nukkumisen tsasouna",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/%C3%84%C3%A4nekosken_Jumalansynnytt%C3%A4j%C3%A4n_kuolonuneen_nukkumisen_tsasouna",
+        "coordinates": {}
+    },
+    {
+        "name": "Pyhän Nikolauksen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4n_Nikolauksen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Kazanin Jumalanäidin ikonin kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Porin_ven%C3%A4l%C3%A4inen_ortodoksinen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Pyhittäjä Serafim Sarovilaisen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyhitt%C3%A4j%C3%A4_Serafim_Sarovilaisen_kirkko",
+        "coordinates": {}
+    }
+]
