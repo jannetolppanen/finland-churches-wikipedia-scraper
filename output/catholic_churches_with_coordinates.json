@@ -1,0 +1,91 @@
+[
+    {
+        "name": "Pyhän Henrikin katedraali",
+        "type": "Catholic",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4n_Henrikin_katedraali",
+        "coordinates": {
+            "lat": 60.15922222222222,
+            "lon": 24.954166666666666,
+            "format": "DMS",
+            "original": "60°09′33.2″N, 24°57′15″E"
+        }
+    },
+    {
+        "name": "Pyhän Joosefin kirkko",
+        "type": "Catholic",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4n_Joosefin_kirkko_(Kuopio)",
+        "coordinates": {
+            "lat": 62.901111111111106,
+            "lon": 27.70611111111111,
+            "format": "DMS",
+            "original": "62°54′04″N, 027°42′22″E"
+        }
+    },
+    {
+        "name": "Pyhän Marian kirkko",
+        "type": "Catholic",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4n_Marian_kirkko_(Helsinki)",
+        "coordinates": {
+            "lat": 60.19166666666666,
+            "lon": 24.900277777777777,
+            "format": "DMS",
+            "original": "60°11′30″N, 024°54′01″E"
+        }
+    },
+    {
+        "name": "Pyhän Birgitan ja Autuaan Hemmingin kirkko",
+        "type": "Catholic",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4n_Birgitan_ja_Autuaan_Hemmingin_kirkko",
+        "coordinates": {
+            "lat": 60.45,
+            "lon": 22.255,
+            "format": "DMS",
+            "original": "60°27′00″N, 022°15′18″E"
+        }
+    },
+    {
+        "name": "Pyhän Olavin kirkko",
+        "type": "Catholic",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4n_Olavin_kirkko_(Jyv%C3%A4skyl%C3%A4)",
+        "coordinates": {
+            "lat": 62.24794444444444,
+            "lon": 25.748305555555557,
+            "format": "DMS",
+            "original": "62°14′52.6″N, 025°44′53.9″E"
+        }
+    },
+    {
+        "name": "Pyhän Ristin kirkko",
+        "type": "Catholic",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4n_Ristin_kirkko_(Tampere)",
+        "coordinates": {}
+    },
+    {
+        "name": "Pyhän Ursulan kirkko",
+        "type": "Catholic",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4n_Ursulan_kirkko_(Kouvola)",
+        "coordinates": {
+            "lat": 60.87122222222222,
+            "lon": 26.695916666666665,
+            "format": "DMS",
+            "original": "60°52′16.4″N, 26°41′45.3″E"
+        }
+    },
+    {
+        "name": "Nasaretin pyhän perheen kirkko",
+        "type": "Catholic",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Nasaretin_pyh%C3%A4n_perheen_kirkko",
+        "coordinates": {
+            "lat": 65.04472222222222,
+            "lon": 25.455555555555556,
+            "format": "DMS",
+            "original": "65°02′41″N, 025°27′20″E"
+        }
+    },
+    {
+        "name": "Pyhän Mikaelin kappeli",
+        "type": "Catholic",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4n_Mikaelin_kappeli",
+        "coordinates": {}
+    }
+]
