@@ -48,6 +48,7 @@ coverage.xml
 # !output/catholic_churches.json
 # !output/orthodox_churches.json
 # !output/lutheran_churches.json
+json_practise.py
 
 # Logs
 *.log

@@ -1,0 +1,842 @@
+[
+    {
+        "name": "Pyh\u00c3\u00a4n Ristin kirkko",
+        "type": "Catholic",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4n_Ristin_kirkko_(Tampere)",
+        "coordinates": {}
+    },
+    {
+        "name": "Pyh\u00c3\u00a4n Mikaelin kappeli",
+        "type": "Catholic",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4n_Mikaelin_kappeli",
+        "coordinates": {}
+    },
+    {
+        "name": "Helsingin pyh\u00c3\u00a4n Eliaan kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Helsingin_pyh%C3%A4n_Eliaan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Hoilolan Pyh\u00c3\u00a4n Nikolaoksen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Hoilolan_ortodoksinen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Iisalmen profeetta Elian kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Iisalmen_profeetta_Elian_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Imatran pyh\u00c3\u00a4n Nikolaoksen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Imatran_pyh%C3%A4n_Nikolaoksen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Kaikkien Valamon pyhien kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kaikkien_Valamon_pyhien_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Karstulan Jumalansynnytt\u00c3\u00a4j\u00c3\u00a4n syntym\u00c3\u00a4n tsasouna",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Karstulan_Jumalansynnytt%C3%A4j%C3%A4n_syntym%C3%A4n_tsasouna",
+        "coordinates": {}
+    },
+    {
+        "name": "Kausalan Neitseen Marian syntym\u00c3\u00a4n tsasouna",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kausalan_Neitseen_Marian_syntym%C3%A4n_tsasouna",
+        "coordinates": {}
+    },
+    {
+        "name": "Kokkolan Pyhien Simeonin ja Hannan rukoushuone",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kokkolan_Pyhien_Simeonin_ja_Hannan_rukoushuone",
+        "coordinates": {}
+    },
+    {
+        "name": "Kontiolahden Kristuksen taivaaseenastumisen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kontiolahden_Kristuksen_taivaaseenastumisen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Kuivaj\u00c3\u00a4rven Pyh\u00c3\u00a4n Nikolaoksen tsasouna",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kuivaj%C3%A4rven_Pyh%C3%A4n_Nikolaoksen_tsasouna",
+        "coordinates": {}
+    },
+    {
+        "name": "Mikkelin pyh\u00c3\u00a4n ylienkeli Mikaelin kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Mikkelin_pyh%C3%A4n_ylienkeli_Mikaelin_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Nivalan Kristuksen kirkastumisen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Nivalan_Kristuksen_kirkastumisen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Nummelan Jumalansynnytt\u00c3\u00a4j\u00c3\u00a4n Neitseen Marian syntym\u00c3\u00a4n rukoushuone",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Nummelan_Jumalansynnytt%C3%A4j%C3%A4n_Neitseen_Marian_syntym%C3%A4n_rukoushuone",
+        "coordinates": {}
+    },
+    {
+        "name": "Porvoon Kristuksen kirkastumisen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Porvoon_Kristuksen_kirkastumisen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Rovaniemen apostoli Andreaksen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Rovaniemen_apostoli_Andreaksen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Saarij\u00c3\u00a4rven pyhitt\u00c3\u00a4j\u00c3\u00a4 Arseni Konevitsalaisen t\u00c5\u00a1asouna",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Saarij%C3%A4rven_pyhitt%C3%A4j%C3%A4_Arseni_Konevitsalaisen_t%C5%A1asouna",
+        "coordinates": {}
+    },
+    {
+        "name": "Viinij\u00c3\u00a4rven Jumalan\u00c3\u00a4idin Tihvin\u00c3\u00a4n ikonin kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Viinij%C3%A4rven_Jumalan%C3%A4idin_Tihvin%C3%A4n_ikonin_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Viitasaaren Kristuksen kirkastumisen tsasouna",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Viitasaaren_Kristuksen_kirkastumisen_tsasouna",
+        "coordinates": {}
+    },
+    {
+        "name": "\u00c3\u201e\u00c3\u00a4nekosken Jumalansynnytt\u00c3\u00a4j\u00c3\u00a4n kuolonuneen nukkumisen tsasouna",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/%C3%84%C3%A4nekosken_Jumalansynnytt%C3%A4j%C3%A4n_kuolonuneen_nukkumisen_tsasouna",
+        "coordinates": {}
+    },
+    {
+        "name": "Alavuden kirkko[15]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Alavuden_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Anjalan kirkko[18]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Anjalan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Berg\u00c3\u00b6n kirkko[26]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Berg%C3%B6n_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Br\u00c3\u00a4nd\u00c3\u00b6n kirkko[29]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Br%C3%A4nd%C3%B6n_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Enonteki\u00c3\u00b6n kirkko[36]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Enonteki%C3%B6n_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Er\u00c3\u00a4j\u00c3\u00a4rven kirkko[37]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Er%C3%A4j%C3%A4rven_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Hakunilan kirkko[57]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Hakunilan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Hiittisten kirkko[85]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Hiittisten_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "H\u00c3\u00a4til\u00c3\u00a4n kirkko[113]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/H%C3%A4til%C3%A4n_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Joutsenon kirkko[147]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Joutsenon_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Kalkkisten kirkko[173]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kalkkisten_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Karijoen kirkko[187]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Karijoen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Karkkilan kirkko[193]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Karkkilan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Katukappeli[202]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Katukappeli",
+        "coordinates": {}
+    },
+    {
+        "name": "Kauhavan kirkko[206]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kauhavan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Keiteleen kirkko[210]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Keiteleen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Kemij\u00c3\u00a4rven kirkko[214]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kemij%C3%A4rven_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Keravan kirkko[219]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Keravan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Keuruun kirkko[224]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Keuruun_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Kiikalan kirkko[227]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kiikalan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Kinnulan kirkko[232]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kinnulan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Kiukaisten kirkko[239]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kiukaisten_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Kivij\u00c3\u00a4rven kirkko[241]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kivij%C3%A4rven_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Kodisjoen kirkko[246]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kodisjoen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Koivulahden kirkko[249]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Koivulahden_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Kontiolahden kirkko[256]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kontiolahden_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Kristiinankaupungin uusi kirkko[270]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kristiinankaupungin_uusi_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Kuhmalahden kirkko[275]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kuhmalahden_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Kursun kirkko[288]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kursun_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Kustavin kirkko[290]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kustavin_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Kuusj\u00c3\u00a4rven kirkko[295]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kuusj%C3%A4rven_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "K\u00c3\u00a4rk\u00c3\u00b6l\u00c3\u00a4n kirkko[303]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/K%C3%A4rk%C3%B6l%C3%A4n_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "K\u00c3\u00a4rk\u00c3\u00b6l\u00c3\u00a4n kirkko[304][305]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/K%C3%A4rk%C3%B6l%C3%A4n_kirkko_(Pusula)",
+        "coordinates": {}
+    },
+    {
+        "name": "K\u00c3\u00a4yl\u00c3\u00a4n rajaseutukirkko[307]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/K%C3%A4yl%C3%A4n_rajaseutukirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Laihian kirkko[313]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Laihian_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Lapinlahden kirkko[321]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lapinlahden_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Lauritsalan kirkko[333]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lauritsalan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Lehtim\u00c3\u00a4en kirkko[338]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lehtim%C3%A4en_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Leivonm\u00c3\u00a4en kirkko[339]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Leivonm%C3%A4en_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Lentiiran kirkko[344]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lentiiran_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Lepp\u00c3\u00a4virran kirkko[346]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lepp%C3%A4virran_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Littoisten kirkko[359]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Littoisten_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Luhangan talvikirkko[371]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Luhangan_talvikirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Luodon kirkko[373]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Luodon_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Luopioisten kirkko[374]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Luopioisten_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Lutherin kirkko[377]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lutherin_kirkko_(Turku)",
+        "coordinates": {}
+    },
+    {
+        "name": "Maaningan kirkko[384]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Maaningan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Maksamaan kirkko[386]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Maksamaan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Malmin kirkko[387]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Malmin_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Manamansalon muistomerkkikirkko[388]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Manamansalon_muistomerkkikirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Merikarvian kirkko[401]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Merikarvian_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Merirasti-kappeli",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Merirasti-kappeli",
+        "coordinates": {}
+    },
+    {
+        "name": "Munkkivuoren kirkko[421]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Munkkivuoren_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Muurasj\u00c3\u00a4rven kirkko[429]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Muurasj%C3%A4rven_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Muurlan kirkko[430]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Muurlan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Myyrm\u00c3\u00a4en kirkko[436][437]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Myyrm%C3%A4en_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "M\u00c3\u00a4nts\u00c3\u00a4l\u00c3\u00a4n kirkko[439]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/M%C3%A4nts%C3%A4l%C3%A4n_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Nurmij\u00c3\u00a4rven kirkko[460]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Nurmij%C3%A4rven_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "N\u00c3\u00b6t\u00c3\u00b6n kirkko[464]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/N%C3%B6t%C3%B6n_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Outokummun kirkko[478]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Outokummun_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Panelian kirkko[493]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Panelian_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Pankakosken kirkko[494]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pankakosken_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Petolahden kirkko[509]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Petolahden_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Pielaveden kirkko[514]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pielaveden_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Pihlajaveden kirkko[518]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pihlajaveden_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Pinsi\u00c3\u00b6n kirkko[525]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pinsi%C3%B6",
+        "coordinates": {}
+    },
+    {
+        "name": "Porvoon puukirkko",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Porvoon_puukirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Pusulan kirkko[547]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pusulan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Puumalan kirkko[548][549]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Puumalan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Pyh\u00c3\u00a4joen kirkko[551]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4joen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Pyh\u00c3\u00a4n Pietarin kirkko[562]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4n_Pietarin_kirkko_(Laitila)",
+        "coordinates": {}
+    },
+    {
+        "name": "Pylk\u00c3\u00b6nm\u00c3\u00a4en kirkko[570]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pylk%C3%B6nm%C3%A4en_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "P\u00c3\u00a4lk\u00c3\u00a4neen kirkko[571]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/P%C3%A4lk%C3%A4neen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Riihim\u00c3\u00a4en keskuskirkko[590]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Riihim%C3%A4en_keskuskirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Riistaveden kirkko[592]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Riistaveden_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Ristij\u00c3\u00a4rven kirkko[594]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Ristij%C3%A4rven_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Ristikiven kirkko[595]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Ristikiven_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Ruhtinansalmen kirkko[598]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Ruhtinansalmen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Savukosken kirkko[628]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Savukosken_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Siipyyn kirkko[636]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Siipyyn_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Simpeleen kirkko[637]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Simpeleen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Soukaisten Pyh\u00c3\u00a4n Perttelin kirkko[653]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Soukaisten_Pyh%C3%A4n_Perttelin_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Sukevan kirkko[655]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sukevan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Sulvan kirkko[657]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sulvan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Suolahden kirkko[661]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suolahden_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Suomussalmen kirkko[665]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suomussalmen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "S\u00c3\u00a4kyl\u00c3\u00a4n kirkko[670]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/S%C3%A4kyl%C3%A4n_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "S\u00c3\u00a4rkisalon kirkko[671]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/S%C3%A4rkisalon_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "S\u00c3\u00b6derkullan kirkko[676]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/S%C3%B6derkullan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Tankarin kirkko[688]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tankarin_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Teerij\u00c3\u00a4rven kirkko[692]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Teerij%C3%A4rven_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Teuvan kirkko[705]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Teuvan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Tiistenjoen kirkko[706]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tiistenjoen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Tikkurilan kirkko[708]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tikkurilan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Tirvan kirkko[709]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tirvan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Tuohikotin kirkko[716]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tuohikotin_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Untamalan kirkko[562]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Untamalan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Uudenkaupungin uusi kirkko[750]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Uudenkaupungin_uusi_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Vaalan kirkko[755]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Vaalan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Vahdon kirkko[758]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Vahdon_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Valkeakosken kirkko[759]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Valkeakosken_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Valkeakosken kappelikirkko[760]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Valkeakosken_kappelikirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Vantaan Pyh\u00c3\u00a4n Laurin kirkko[766]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Vantaan_Pyh%C3%A4n_Laurin_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Vehkaj\u00c3\u00a4rven kirkko[772]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Vehkaj%C3%A4rven_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Vetokannaksen kirkko[780]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Vetokannaksen_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Vihdin kirkko[784][785]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Vihdin_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Viialan kirkko[786]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Viialan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Vimpelin kirkko[793]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Vimpelin_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Virkkalan kirkko[794]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Virkkalan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Voikosken kirkko[800]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Voikosken_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Vuokatin kirkko[801]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Vuokatin_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Vuokin kirkko[802]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Vuokin_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "V\u00c3\u00a4h\u00c3\u00a4nkyr\u00c3\u00b6n kirkko[807]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/V%C3%A4h%C3%A4nkyr%C3%B6n_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "V\u00c3\u00a4rtsil\u00c3\u00a4n kirkko[809]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/V%C3%A4rtsil%C3%A4n_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Ykspihlajan kirkko[815]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Ykspihlajan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Ylimarkun kirkko[819]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Ylimarkun_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Yliskyl\u00c3\u00a4n kirkko[820]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Yliskyl%C3%A4n_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "\u00c3\u201e\u00c3\u00a4nekosken kirkko[830]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/%C3%84%C3%A4nekosken_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "\u00c3\u201emm\u00c3\u00a4nsaaren kirkko[831]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/%C3%84mm%C3%A4nsaaren_kirkko",
+        "coordinates": {}
+    }
+]

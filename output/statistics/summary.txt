@@ -1,0 +1,9 @@
+Finnish Churches Statistics
+==========================
+
+Total churches with valid coordinates: 739
+
+Churches by type:
+- Lutheran: 661 (89.4%)
+- Orthodox: 71 (9.6%)
+- Catholic: 7 (0.9%)
