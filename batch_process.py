@@ -1,4 +1,4 @@
-# batch_process.py
+# Osaa ajaa useamman tiedoston kerrallaan ja käyttää CoordinateExtractor-luokkaa koordinaattien poimimiseen.
 from coordinate_extractor import CoordinateExtractor
 import json
 import os

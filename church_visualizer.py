@@ -1,4 +1,4 @@
-# visualize_churches.py
+# Piirtää kirkot kartalle ja tekee statseja
 import json
 import folium
 from folium.plugins import MarkerCluster
@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import os
 
 class ChurchVisualizer:
-    def __init__(self, input_file='output/all_churches_with_coordinates.json'):
+    def __init__(self, input_file='output/churches_with_coordinates.json'):
         self.input_file = input_file
         self.churches = self.load_churches()
     

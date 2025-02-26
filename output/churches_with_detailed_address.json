@@ -1,0 +1,186 @@
+[
+    {
+        "name": "Kausalan Neitseen Marian syntymän tsasouna",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kausalan_Neitseen_Marian_syntym%C3%A4n_tsasouna",
+        "coordinates": {},
+        "address": "Keskikatu 4, Kausala, Iitti",
+        "detailed_address": true
+    },
+    {
+        "name": "Kokkolan Pyhien Simeonin ja Hannan rukoushuone",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kokkolan_Pyhien_Simeonin_ja_Hannan_rukoushuone",
+        "coordinates": {},
+        "address": "Katariinankatu 3, 67100 Kokkola[1]",
+        "detailed_address": true
+    },
+    {
+        "name": "Kontiolahden Kristuksen taivaaseenastumisen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kontiolahden_Kristuksen_taivaaseenastumisen_kirkko",
+        "coordinates": {},
+        "address": "Keskuskatu 53, Kontiolahti",
+        "detailed_address": true
+    },
+    {
+        "name": "Kuivajärven Pyhän Nikolaoksen tsasouna",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kuivaj%C3%A4rven_Pyh%C3%A4n_Nikolaoksen_tsasouna",
+        "coordinates": {},
+        "address": "Kuivajärventie 196, 89840 Yli-Vuokki, Suomussalmi",
+        "detailed_address": true
+    },
+    {
+        "name": "Nivalan Kristuksen kirkastumisen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Nivalan_Kristuksen_kirkastumisen_kirkko",
+        "coordinates": {},
+        "address": "Jokikyläntie 7, Nivala",
+        "detailed_address": true
+    },
+    {
+        "name": "Nummelan Jumalansynnyttäjän Neitseen Marian syntymän rukoushuone",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Nummelan_Jumalansynnytt%C3%A4j%C3%A4n_Neitseen_Marian_syntym%C3%A4n_rukoushuone",
+        "coordinates": {},
+        "address": "Naaranpajuntie 7, Nummela, Vihti",
+        "detailed_address": true
+    },
+    {
+        "name": "Porvoon Kristuksen kirkastumisen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Porvoon_Kristuksen_kirkastumisen_kirkko",
+        "coordinates": {},
+        "address": "Vanha Helsingintie 2, Porvoo",
+        "detailed_address": true
+    },
+    {
+        "name": "Rovaniemen apostoli Andreaksen kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Rovaniemen_apostoli_Andreaksen_kirkko",
+        "coordinates": {},
+        "address": "Ounasvaarantie 16, Rovaniemi",
+        "detailed_address": true
+    },
+    {
+        "name": "Viinijärven Jumalanäidin Tihvinän ikonin kirkko",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Viinij%C3%A4rven_Jumalan%C3%A4idin_Tihvin%C3%A4n_ikonin_kirkko",
+        "coordinates": {},
+        "address": "Viinijärventie 8, Viinijärvi, Liperi",
+        "detailed_address": true
+    },
+    {
+        "name": "Viitasaaren Kristuksen kirkastumisen tsasouna",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Viitasaaren_Kristuksen_kirkastumisen_tsasouna",
+        "coordinates": {},
+        "address": "Kirkkotie 12, Viitasaari",
+        "detailed_address": true
+    },
+    {
+        "name": "Äänekosken Jumalansynnyttäjän kuolonuneen nukkumisen tsasouna",
+        "type": "Orthodox",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/%C3%84%C3%A4nekosken_Jumalansynnytt%C3%A4j%C3%A4n_kuolonuneen_nukkumisen_tsasouna",
+        "coordinates": {},
+        "address": "Palokuja 2, Äänekoski",
+        "detailed_address": true
+    },
+    {
+        "name": "Hakunilan kirkko[57]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Hakunilan_kirkko",
+        "coordinates": {},
+        "address": "Hakunilantie 48, Hakunila, Vantaa",
+        "detailed_address": true
+    },
+    {
+        "name": "Katukappeli[202]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Katukappeli",
+        "coordinates": {},
+        "address": "Vuotie 45, Vuosaari, Helsinki",
+        "detailed_address": true
+    },
+    {
+        "name": "Kemijärven kirkko[214]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kemij%C3%A4rven_kirkko",
+        "coordinates": {},
+        "address": "Kirkkokatu 11, Kemijärvi",
+        "detailed_address": true
+    },
+    {
+        "name": "Leppävirran kirkko[346]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lepp%C3%A4virran_kirkko",
+        "coordinates": {},
+        "address": "Savonkatu 19, Leppävirta",
+        "detailed_address": true
+    },
+    {
+        "name": "Maaningan kirkko[384]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Maaningan_kirkko",
+        "coordinates": {},
+        "address": "Maaningantie 33, Maaninka, Kuopio",
+        "detailed_address": true
+    },
+    {
+        "name": "Manamansalon muistomerkkikirkko[388]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Manamansalon_muistomerkkikirkko",
+        "coordinates": {},
+        "address": "Kiloniementie 202, Manamansalo, Vaala",
+        "detailed_address": true
+    },
+    {
+        "name": "Mäntsälän kirkko[439]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/M%C3%A4nts%C3%A4l%C3%A4n_kirkko",
+        "coordinates": {},
+        "address": "Vanha Porvoontie 8, Mäntsälä",
+        "detailed_address": true
+    },
+    {
+        "name": "Ruhtinansalmen kirkko[598]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Ruhtinansalmen_kirkko",
+        "coordinates": {},
+        "address": "Pappilantie 1, Ruhtinansalmi, Suomussalmi",
+        "detailed_address": true
+    },
+    {
+        "name": "Savukosken kirkko[628]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Savukosken_kirkko",
+        "coordinates": {},
+        "address": "Samperintie 6, Savukoski",
+        "detailed_address": true
+    },
+    {
+        "name": "Suomussalmen kirkko[665]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suomussalmen_kirkko",
+        "coordinates": {},
+        "address": "Salmentie 1, Suomussalmi",
+        "detailed_address": true
+    },
+    {
+        "name": "Tikkurilan kirkko[708]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tikkurilan_kirkko",
+        "coordinates": {},
+        "address": "Asematie 12a, Vantaa",
+        "detailed_address": true
+    },
+    {
+        "name": "Ämmänsaaren kirkko[831]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/%C3%84mm%C3%A4nsaaren_kirkko",
+        "coordinates": {},
+        "address": "Kirkkokuja 1, Ämmänsaari, Suomussalmi",
+        "detailed_address": true
+    }
+]

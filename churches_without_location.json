@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Pyhän Mikaelin kappeli",
+        "type": "Catholic",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4n_Mikaelin_kappeli",
+        "coordinates": {}
+    },
+    {
+        "name": "Merirasti-kappeli",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Merirasti-kappeli",
+        "coordinates": {}
+    },
+    {
+        "name": "Muurlan kirkko[430]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Muurlan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Pinsiön kirkko[525]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pinsi%C3%B6",
+        "coordinates": {}
+    },
+    {
+        "name": "Ristikiven kirkko[595]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Ristikiven_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Söderkullan kirkko[676]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/S%C3%B6derkullan_kirkko",
+        "coordinates": {}
+    },
+    {
+        "name": "Viialan kirkko[786]",
+        "type": "Lutheran",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Viialan_kirkko",
+        "coordinates": {}
+    }
+]
