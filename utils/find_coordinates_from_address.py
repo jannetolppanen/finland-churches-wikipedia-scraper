@@ -5,10 +5,10 @@ import os
 def get_coordinates_from_address(address):
     """
     Main function that retrieves latitude and longitude from an address using OSM Nominatim API.
-    
+
     Parameters:
     address (str): The street address to geocode
-    
+
     Returns:
     tuple: (latitude, longitude) if found, otherwise None
     """
@@ -17,7 +17,7 @@ def get_coordinates_from_address(address):
         'User-Agent': 'CoordinatesApp/1.0',  # Replace with your app name - required by Nominatim usage policy
         'Accept-Language': 'en'  # Optional - language preference for results
     }
-    
+
     # Create the API URL
     base_url = "https://nominatim.openstreetmap.org/search"
     params = {
@@ -25,14 +25,14 @@ def get_coordinates_from_address(address):
         'format': 'json',
         'limit': 1
     }
-    
+
     try:
         # Helper function that makes the actual HTTP request
         response = requests.get(base_url, params=params, headers=headers)
         response.raise_for_status()  # Raise exception for HTTP errors
-        
+
         data = response.json()
-        
+
         if data:
             lat = float(data[0]['lat'])
             lon = float(data[0]['lon'])
@@ -49,18 +49,20 @@ def process_json_file(file_path, output_file_path):
         data = json.load(file)
 
     for church in data:
-        if 'address' not in church:
+        if 'address' not in church or not church.get('detailed_address', False):
             continue
-        
+
+        if 'coordinates' in church and 'lat' in church['coordinates'] and 'lon' in church['coordinates']:
+            if church['coordinates']['lat'] is not None and church['coordinates']['lon'] is not None:
+                continue
+
         address = church['address']
         coordinates = get_coordinates_from_address(address)
         if coordinates:
             lat, lon = coordinates
-            church['coordinates']['lat'] = lat
-            church['coordinates']['lon'] = lon
+            church['coordinates'] = {'lat': lat, 'lon': lon}
         else:
-            church['coordinates']['lat'] = None
-            church['coordinates']['lon'] = None
+            church['coordinates'] = {'lat': None, 'lon': None}
 
     # Ensure the output directory exists
     os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
@@ -70,10 +72,10 @@ def process_json_file(file_path, output_file_path):
 
 # Example usage
 if __name__ == "__main__":
-  input_file = "churches_without_location.json"
-  output_file = "output/test/churches_with_coordinates_from_manual_address.json"
+    input_file = "output\churches_with_coordinates.json"
+    output_file = "output\churches_with_coordinates_updated_from_addresses.json"
 
-  process_json_file(input_file, output_file)
+    process_json_file(input_file, output_file)
 
 
 

@@ -1,0 +1,8 @@
+Finnish Churches Statistics
+==========================
+
+Total churches with valid coordinates: 846
+Churches with detailed address: 0
+Churches with non-detailed address: 26
+Churches with no details: 7
+

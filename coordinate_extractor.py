@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 import random
 
 class CoordinateExtractor:
-    def __init__(self, input_file='output/all_churches_with_coordinates.json', output_file='output/churches_with_coordinates.json'):
+    def __init__(self, input_file='output/all_churches.json', output_file='output/churches_with_coordinates.json'):
         self.input_file = input_file
         self.output_file = output_file
         # Add counters for method statistics

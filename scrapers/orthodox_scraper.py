@@ -1,5 +1,6 @@
 # scrapers/orthodox_scraper.py
 from scrapers.base_scraper import BaseScraper
+import re
 
 class OrthodoxScraper(BaseScraper):
     def __init__(self):
@@ -7,6 +8,13 @@ class OrthodoxScraper(BaseScraper):
             "https://fi.wikipedia.org/wiki/Luettelo_Suomen_ortodoksisista_kirkoista",
             "Orthodox"
         )
+
+    def clean_church_name(self, name):
+        """
+        Clean the church name by removing any trailing numbers enclosed in brackets.
+        """
+        # Updated regex to match multiple occurrences of bracketed numbers
+        return re.sub(r'\s*\[\d+\]', '', name).strip()
     
     def get_churches(self):
         soup = self.fetch_page()
@@ -46,6 +54,9 @@ class OrthodoxScraper(BaseScraper):
                         
                         if not is_redlink:
                             wiki_link = "https://fi.wikipedia.org" + href
+
+                            # Clean the church name
+                            name = self.clean_church_name(name)
                             
                             # Create church entry with just the basic info
                             church = {
