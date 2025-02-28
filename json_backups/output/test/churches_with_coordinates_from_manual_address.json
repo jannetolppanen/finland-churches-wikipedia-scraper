@@ -3,7 +3,10 @@
         "name": "Pyhän Mikaelin kappeli",
         "type": "Catholic",
         "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4n_Mikaelin_kappeli",
-        "coordinates": {},
+        "coordinates": {
+            "lat": 61.5948188,
+            "lon": 23.6696226
+        },
         "address": "Härkilevontie 77, Ylöjärvi",
         "detailed_address": true,
         "manual_verification": "address"
@@ -19,7 +22,10 @@
         "name": "Muurlan kirkko[430]",
         "type": "Lutheran",
         "wikipedia_link": "https://fi.wikipedia.org/wiki/Muurlan_kirkko",
-        "coordinates": {},
+        "coordinates": {
+            "lat": 60.3499439,
+            "lon": 23.2794421
+        },
         "address": "Muurlantie 347, 25130 Muurla",
         "detailed_address": true,
         "manual_verification": "address"
@@ -28,7 +34,10 @@
         "name": "Pinsiön kirkko[525]",
         "type": "Lutheran",
         "wikipedia_link": "https://fi.wikipedia.org/wiki/Pinsi%C3%B6",
-        "coordinates": {},
+        "coordinates": {
+            "lat": 61.5473423972191,
+            "lon": 23.430357888359094
+        },
         "address": "Pinsiöntie 1175, 39150 Pinsiö",
         "detailed_address": true,
         "manual_verification": "address"
@@ -37,7 +46,10 @@
         "name": "Ristikiven kirkko[595]",
         "type": "Lutheran",
         "wikipedia_link": "https://fi.wikipedia.org/wiki/Ristikiven_kirkko",
-        "coordinates": {},
+        "coordinates": {
+            "lat": 62.345669150000006,
+            "lon": 27.222221381950497
+        },
         "address": "Partaharjuntie 361, 76280 Pieksämäki",
         "detailed_address": true,
         "manual_verification": "address"
@@ -46,17 +58,22 @@
         "name": "Söderkullan kirkko[676]",
         "type": "Lutheran",
         "wikipedia_link": "https://fi.wikipedia.org/wiki/S%C3%B6derkullan_kirkko",
-        "coordinates": {},
+        "coordinates": {
+            "lat": 60.298213149999995,
+            "lon": 25.342097898375492
+        },
         "address": "Neiti Miilin tie 2, 01150 Söderkulla",
         "detailed_address": true,
         "manual_verification": "address"
-
     },
     {
         "name": "Viialan kirkko[786]",
         "type": "Lutheran",
         "wikipedia_link": "https://fi.wikipedia.org/wiki/Viialan_kirkko",
-        "coordinates": {},
+        "coordinates": {
+            "lat": 61.21362022221069,
+            "lon": 23.76199444310482
+        },
         "address": "Nordintie 3 A, 37830 Akaa",
         "detailed_address": true,
         "manual_verification": "address"

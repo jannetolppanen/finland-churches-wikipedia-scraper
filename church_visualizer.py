@@ -8,6 +8,7 @@ import os
 
 class ChurchVisualizer:
     def __init__(self, input_file='output/churches_with_coordinates.json'):
+        print(input_file)
         self.input_file = input_file
         self.churches = self.load_churches()
     
@@ -168,16 +169,8 @@ def main():
     print("Starting Finnish Churches Visualization")
     print("=======================================")
     
-    # First try to use the combined file
-    input_file = 'output/all_churches_with_coordinates.json'
-    
-    # If combined file doesn't exist, try using just the Catholic churches file
-    if not os.path.exists(input_file):
-        input_file = 'output/catholic_churches_with_coordinates.json'
-        if not os.path.exists(input_file):
-            print(f"Error: Neither all_churches_with_coordinates.json nor catholic_churches_with_coordinates.json found.")
-            return
-    
+    input_file = 'output/test/churches_with_coordinates.json'
+      
     visualizer = ChurchVisualizer(input_file)
     valid_churches = visualizer.create_map()
     

@@ -1,0 +1,972 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_5487ed274c7e5e95ccaf56bdaac2d8be {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_5487ed274c7e5e95ccaf56bdaac2d8be" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_5487ed274c7e5e95ccaf56bdaac2d8be = L.map(
+                "map_5487ed274c7e5e95ccaf56bdaac2d8be",
+                {
+                    center: [64.5, 26.0],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 6,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_3cb1774a425a08854a1dda9f055c74f8 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_3cb1774a425a08854a1dda9f055c74f8.addTo(map_5487ed274c7e5e95ccaf56bdaac2d8be);
+        
+    
+            var marker_cluster_532dd27321073b7e78ed35cc00d7d8c6 = L.markerClusterGroup(
+                {
+}
+            );
+        
+    
+            var marker_4d3a015491a25dd215b9856900219d93 = L.marker(
+                [60.887472450000004, 26.33514107639174],
+                {
+}
+            ).addTo(marker_cluster_532dd27321073b7e78ed35cc00d7d8c6);
+        
+    
+            var icon_4bb4f1b11248fac65e6b6b33a3096b38 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "church",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_4d3a015491a25dd215b9856900219d93.setIcon(icon_4bb4f1b11248fac65e6b6b33a3096b38);
+        
+    
+        var popup_ac6a19b15a6ae50a9891d78c306c2e7d = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_182fdd096e991c69bc9b55c5549fbded = $(`<div id="html_182fdd096e991c69bc9b55c5549fbded" style="width: 100.0%; height: 100.0%;">             <b>Kausalan Neitseen Marian syntymän tsasouna</b><br>             Type: Orthodox<br>             Address: Keskikatu 4, Kausala, Iitti<br>             Coordinates: 60.887472, 26.335141<br>             <a href="https://fi.wikipedia.org/wiki/Kausalan_Neitseen_Marian_syntym%C3%A4n_tsasouna" target="_blank">Wikipedia Page</a>             </div>`)[0];
+                popup_ac6a19b15a6ae50a9891d78c306c2e7d.setContent(html_182fdd096e991c69bc9b55c5549fbded);
+            
+        
+
+        marker_4d3a015491a25dd215b9856900219d93.bindPopup(popup_ac6a19b15a6ae50a9891d78c306c2e7d)
+        ;
+
+        
+    
+    
+            marker_4d3a015491a25dd215b9856900219d93.bindTooltip(
+                `<div>
+                     Kausalan Neitseen Marian syntymän tsasouna
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_9500c863e2ca95ea528a3cb3d091055e = L.marker(
+                [62.77667405683957, 29.851042896230613],
+                {
+}
+            ).addTo(marker_cluster_532dd27321073b7e78ed35cc00d7d8c6);
+        
+    
+            var icon_8e23456fed2d065c49445407ce675192 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "church",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_9500c863e2ca95ea528a3cb3d091055e.setIcon(icon_8e23456fed2d065c49445407ce675192);
+        
+    
+        var popup_44c1d7e0bce367c6217caf8a644174d1 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f02706f83e7d0b141ec1a5034322154d = $(`<div id="html_f02706f83e7d0b141ec1a5034322154d" style="width: 100.0%; height: 100.0%;">             <b>Kontiolahden Kristuksen taivaaseenastumisen kirkko</b><br>             Type: Orthodox<br>             Address: Keskuskatu 53, Kontiolahti<br>             Coordinates: 62.776674, 29.851043<br>             <a href="https://fi.wikipedia.org/wiki/Kontiolahden_Kristuksen_taivaaseenastumisen_kirkko" target="_blank">Wikipedia Page</a>             </div>`)[0];
+                popup_44c1d7e0bce367c6217caf8a644174d1.setContent(html_f02706f83e7d0b141ec1a5034322154d);
+            
+        
+
+        marker_9500c863e2ca95ea528a3cb3d091055e.bindPopup(popup_44c1d7e0bce367c6217caf8a644174d1)
+        ;
+
+        
+    
+    
+            marker_9500c863e2ca95ea528a3cb3d091055e.bindTooltip(
+                `<div>
+                     Kontiolahden Kristuksen taivaaseenastumisen kirkko
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_4840b7fe6af647cb49d3c814ec5f0246 = L.marker(
+                [64.6393508, 30.0563957],
+                {
+}
+            ).addTo(marker_cluster_532dd27321073b7e78ed35cc00d7d8c6);
+        
+    
+            var icon_3670d88e336454f74561669f00ef5257 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "church",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_4840b7fe6af647cb49d3c814ec5f0246.setIcon(icon_3670d88e336454f74561669f00ef5257);
+        
+    
+        var popup_0524a8786b6333f19c0685e9e1ab4523 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_cc22f9df1b2a875f25fc7ee8bc7f2f61 = $(`<div id="html_cc22f9df1b2a875f25fc7ee8bc7f2f61" style="width: 100.0%; height: 100.0%;">             <b>Kuivajärven Pyhän Nikolaoksen tsasouna</b><br>             Type: Orthodox<br>             Address: Kuivajärventie 196, 89840 Yli-Vuokki, Suomussalmi<br>             Coordinates: 64.639351, 30.056396<br>             <a href="https://fi.wikipedia.org/wiki/Kuivaj%C3%A4rven_Pyh%C3%A4n_Nikolaoksen_tsasouna" target="_blank">Wikipedia Page</a>             </div>`)[0];
+                popup_0524a8786b6333f19c0685e9e1ab4523.setContent(html_cc22f9df1b2a875f25fc7ee8bc7f2f61);
+            
+        
+
+        marker_4840b7fe6af647cb49d3c814ec5f0246.bindPopup(popup_0524a8786b6333f19c0685e9e1ab4523)
+        ;
+
+        
+    
+    
+            marker_4840b7fe6af647cb49d3c814ec5f0246.bindTooltip(
+                `<div>
+                     Kuivajärven Pyhän Nikolaoksen tsasouna
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_b7264307d3ccfc5e7524ce75e389f2e8 = L.marker(
+                [63.82456928196033, 25.133868379826946],
+                {
+}
+            ).addTo(marker_cluster_532dd27321073b7e78ed35cc00d7d8c6);
+        
+    
+            var icon_72c50914c52ee8a7e789c79247efd077 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "church",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_b7264307d3ccfc5e7524ce75e389f2e8.setIcon(icon_72c50914c52ee8a7e789c79247efd077);
+        
+    
+        var popup_5da5e11e255cb687c23c3bf34fd8d3a9 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f4fa42e59b1170416526b6d2d619f52e = $(`<div id="html_f4fa42e59b1170416526b6d2d619f52e" style="width: 100.0%; height: 100.0%;">             <b>Nivalan Kristuksen kirkastumisen kirkko</b><br>             Type: Orthodox<br>             Address: Jokikyläntie 7, Nivala<br>             Coordinates: 63.824569, 25.133868<br>             <a href="https://fi.wikipedia.org/wiki/Nivalan_Kristuksen_kirkastumisen_kirkko" target="_blank">Wikipedia Page</a>             </div>`)[0];
+                popup_5da5e11e255cb687c23c3bf34fd8d3a9.setContent(html_f4fa42e59b1170416526b6d2d619f52e);
+            
+        
+
+        marker_b7264307d3ccfc5e7524ce75e389f2e8.bindPopup(popup_5da5e11e255cb687c23c3bf34fd8d3a9)
+        ;
+
+        
+    
+    
+            marker_b7264307d3ccfc5e7524ce75e389f2e8.bindTooltip(
+                `<div>
+                     Nivalan Kristuksen kirkastumisen kirkko
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_cee41f5bc8abe4786acc953098d3dabc = L.marker(
+                [60.329597, 24.319559917028947],
+                {
+}
+            ).addTo(marker_cluster_532dd27321073b7e78ed35cc00d7d8c6);
+        
+    
+            var icon_63f74ee94d2d1e59f765558498af28e9 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "church",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_cee41f5bc8abe4786acc953098d3dabc.setIcon(icon_63f74ee94d2d1e59f765558498af28e9);
+        
+    
+        var popup_7c2cde05435a0b30e03a1806017c0c91 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d1efa863a80ced82288e0969f7c582fc = $(`<div id="html_d1efa863a80ced82288e0969f7c582fc" style="width: 100.0%; height: 100.0%;">             <b>Nummelan Jumalansynnyttäjän Neitseen Marian syntymän rukoushuone</b><br>             Type: Orthodox<br>             Address: Naaranpajuntie 7, Nummela, Vihti<br>             Coordinates: 60.329597, 24.319560<br>             <a href="https://fi.wikipedia.org/wiki/Nummelan_Jumalansynnytt%C3%A4j%C3%A4n_Neitseen_Marian_syntym%C3%A4n_rukoushuone" target="_blank">Wikipedia Page</a>             </div>`)[0];
+                popup_7c2cde05435a0b30e03a1806017c0c91.setContent(html_d1efa863a80ced82288e0969f7c582fc);
+            
+        
+
+        marker_cee41f5bc8abe4786acc953098d3dabc.bindPopup(popup_7c2cde05435a0b30e03a1806017c0c91)
+        ;
+
+        
+    
+    
+            marker_cee41f5bc8abe4786acc953098d3dabc.bindTooltip(
+                `<div>
+                     Nummelan Jumalansynnyttäjän Neitseen Marian syntymän rukoushuone
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_dc781fadb6fac59675727a146a9a82fd = L.marker(
+                [60.391886549999995, 25.64100379131579],
+                {
+}
+            ).addTo(marker_cluster_532dd27321073b7e78ed35cc00d7d8c6);
+        
+    
+            var icon_2b8345bdaadd72e173842e7ed0bbfb34 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "church",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_dc781fadb6fac59675727a146a9a82fd.setIcon(icon_2b8345bdaadd72e173842e7ed0bbfb34);
+        
+    
+        var popup_afb068be3b052c0feafb0dbe3480a560 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_682ff955c787accc579952385fa80698 = $(`<div id="html_682ff955c787accc579952385fa80698" style="width: 100.0%; height: 100.0%;">             <b>Porvoon Kristuksen kirkastumisen kirkko</b><br>             Type: Orthodox<br>             Address: Vanha Helsingintie 2, Porvoo<br>             Coordinates: 60.391887, 25.641004<br>             <a href="https://fi.wikipedia.org/wiki/Porvoon_Kristuksen_kirkastumisen_kirkko" target="_blank">Wikipedia Page</a>             </div>`)[0];
+                popup_afb068be3b052c0feafb0dbe3480a560.setContent(html_682ff955c787accc579952385fa80698);
+            
+        
+
+        marker_dc781fadb6fac59675727a146a9a82fd.bindPopup(popup_afb068be3b052c0feafb0dbe3480a560)
+        ;
+
+        
+    
+    
+            marker_dc781fadb6fac59675727a146a9a82fd.bindTooltip(
+                `<div>
+                     Porvoon Kristuksen kirkastumisen kirkko
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_714c29e84e5644157c8cc52e1e938844 = L.marker(
+                [66.49570120177283, 25.731847581213493],
+                {
+}
+            ).addTo(marker_cluster_532dd27321073b7e78ed35cc00d7d8c6);
+        
+    
+            var icon_78227fa3f3a21c3ec072497a9fb74166 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "church",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_714c29e84e5644157c8cc52e1e938844.setIcon(icon_78227fa3f3a21c3ec072497a9fb74166);
+        
+    
+        var popup_a4cfdfac070931e77a8d67ecffe9968a = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_0533be6ae4711ef4c7909b8ff455dfd3 = $(`<div id="html_0533be6ae4711ef4c7909b8ff455dfd3" style="width: 100.0%; height: 100.0%;">             <b>Rovaniemen apostoli Andreaksen kirkko</b><br>             Type: Orthodox<br>             Address: Ounasvaarantie 16, Rovaniemi<br>             Coordinates: 66.495701, 25.731848<br>             <a href="https://fi.wikipedia.org/wiki/Rovaniemen_apostoli_Andreaksen_kirkko" target="_blank">Wikipedia Page</a>             </div>`)[0];
+                popup_a4cfdfac070931e77a8d67ecffe9968a.setContent(html_0533be6ae4711ef4c7909b8ff455dfd3);
+            
+        
+
+        marker_714c29e84e5644157c8cc52e1e938844.bindPopup(popup_a4cfdfac070931e77a8d67ecffe9968a)
+        ;
+
+        
+    
+    
+            marker_714c29e84e5644157c8cc52e1e938844.bindTooltip(
+                `<div>
+                     Rovaniemen apostoli Andreaksen kirkko
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_7e6b03220463a64b2da9d24d7ad1a9f7 = L.marker(
+                [62.648467499999995, 29.224621861846927],
+                {
+}
+            ).addTo(marker_cluster_532dd27321073b7e78ed35cc00d7d8c6);
+        
+    
+            var icon_ea33cbc04e394d5c25808962e485579c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "church",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_7e6b03220463a64b2da9d24d7ad1a9f7.setIcon(icon_ea33cbc04e394d5c25808962e485579c);
+        
+    
+        var popup_96724c43560707447ee1dbf7cd5782e1 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_769c0a1e298fc7f8721220e8f83a51b5 = $(`<div id="html_769c0a1e298fc7f8721220e8f83a51b5" style="width: 100.0%; height: 100.0%;">             <b>Viinijärven Jumalanäidin Tihvinän ikonin kirkko</b><br>             Type: Orthodox<br>             Address: Viinijärventie 8, Viinijärvi, Liperi<br>             Coordinates: 62.648467, 29.224622<br>             <a href="https://fi.wikipedia.org/wiki/Viinij%C3%A4rven_Jumalan%C3%A4idin_Tihvin%C3%A4n_ikonin_kirkko" target="_blank">Wikipedia Page</a>             </div>`)[0];
+                popup_96724c43560707447ee1dbf7cd5782e1.setContent(html_769c0a1e298fc7f8721220e8f83a51b5);
+            
+        
+
+        marker_7e6b03220463a64b2da9d24d7ad1a9f7.bindPopup(popup_96724c43560707447ee1dbf7cd5782e1)
+        ;
+
+        
+    
+    
+            marker_7e6b03220463a64b2da9d24d7ad1a9f7.bindTooltip(
+                `<div>
+                     Viinijärven Jumalanäidin Tihvinän ikonin kirkko
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_c17e440c3ee19323335b1889fdafee81 = L.marker(
+                [62.972820799999994, 25.254762719396982],
+                {
+}
+            ).addTo(marker_cluster_532dd27321073b7e78ed35cc00d7d8c6);
+        
+    
+            var icon_360180c323394275b353b747abc9001c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "church",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_c17e440c3ee19323335b1889fdafee81.setIcon(icon_360180c323394275b353b747abc9001c);
+        
+    
+        var popup_66d8e7d34f60d1613d6f9a32acf72be2 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_64eae20928e1a9f2ad5c85e7a7e7bd10 = $(`<div id="html_64eae20928e1a9f2ad5c85e7a7e7bd10" style="width: 100.0%; height: 100.0%;">             <b>Viitasaaren Kristuksen kirkastumisen tsasouna</b><br>             Type: Orthodox<br>             Address: Kirkkotie 12, Viitasaari<br>             Coordinates: 62.972821, 25.254763<br>             <a href="https://fi.wikipedia.org/wiki/Viitasaaren_Kristuksen_kirkastumisen_tsasouna" target="_blank">Wikipedia Page</a>             </div>`)[0];
+                popup_66d8e7d34f60d1613d6f9a32acf72be2.setContent(html_64eae20928e1a9f2ad5c85e7a7e7bd10);
+            
+        
+
+        marker_c17e440c3ee19323335b1889fdafee81.bindPopup(popup_66d8e7d34f60d1613d6f9a32acf72be2)
+        ;
+
+        
+    
+    
+            marker_c17e440c3ee19323335b1889fdafee81.bindTooltip(
+                `<div>
+                     Viitasaaren Kristuksen kirkastumisen tsasouna
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_4907de27d64d36efcc9796a5ed7a4dfa = L.marker(
+                [62.61075955, 25.719341],
+                {
+}
+            ).addTo(marker_cluster_532dd27321073b7e78ed35cc00d7d8c6);
+        
+    
+            var icon_d349c43abe9e390a792d3659a5dfd267 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "church",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_4907de27d64d36efcc9796a5ed7a4dfa.setIcon(icon_d349c43abe9e390a792d3659a5dfd267);
+        
+    
+        var popup_ab907300dfb7e81f01870fa19a3bea38 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d96de8721f736dbe3d07a6a76e6aa29b = $(`<div id="html_d96de8721f736dbe3d07a6a76e6aa29b" style="width: 100.0%; height: 100.0%;">             <b>Äänekosken Jumalansynnyttäjän kuolonuneen nukkumisen tsasouna</b><br>             Type: Orthodox<br>             Address: Palokuja 2, Äänekoski<br>             Coordinates: 62.610760, 25.719341<br>             <a href="https://fi.wikipedia.org/wiki/%C3%84%C3%A4nekosken_Jumalansynnytt%C3%A4j%C3%A4n_kuolonuneen_nukkumisen_tsasouna" target="_blank">Wikipedia Page</a>             </div>`)[0];
+                popup_ab907300dfb7e81f01870fa19a3bea38.setContent(html_d96de8721f736dbe3d07a6a76e6aa29b);
+            
+        
+
+        marker_4907de27d64d36efcc9796a5ed7a4dfa.bindPopup(popup_ab907300dfb7e81f01870fa19a3bea38)
+        ;
+
+        
+    
+    
+            marker_4907de27d64d36efcc9796a5ed7a4dfa.bindTooltip(
+                `<div>
+                     Äänekosken Jumalansynnyttäjän kuolonuneen nukkumisen tsasouna
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_17a202c644e2687c3f02b655b08293ff = L.marker(
+                [60.27757865, 25.10392176541518],
+                {
+}
+            ).addTo(marker_cluster_532dd27321073b7e78ed35cc00d7d8c6);
+        
+    
+            var icon_cfe2f27b21d7ea33fa9941b559cf6e75 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "church",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_17a202c644e2687c3f02b655b08293ff.setIcon(icon_cfe2f27b21d7ea33fa9941b559cf6e75);
+        
+    
+        var popup_40355fef24d8501fea818abac7b2d68b = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_da9c348776e22eb3c2e27767318a3d4d = $(`<div id="html_da9c348776e22eb3c2e27767318a3d4d" style="width: 100.0%; height: 100.0%;">             <b>Hakunilan kirkko[57]</b><br>             Type: Lutheran<br>             Address: Hakunilantie 48, Hakunila, Vantaa<br>             Coordinates: 60.277579, 25.103922<br>             <a href="https://fi.wikipedia.org/wiki/Hakunilan_kirkko" target="_blank">Wikipedia Page</a>             </div>`)[0];
+                popup_40355fef24d8501fea818abac7b2d68b.setContent(html_da9c348776e22eb3c2e27767318a3d4d);
+            
+        
+
+        marker_17a202c644e2687c3f02b655b08293ff.bindPopup(popup_40355fef24d8501fea818abac7b2d68b)
+        ;
+
+        
+    
+    
+            marker_17a202c644e2687c3f02b655b08293ff.bindTooltip(
+                `<div>
+                     Hakunilan kirkko[57]
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_240b19e7ece62dc2dae439051583fd6b = L.marker(
+                [60.2075493, 25.144871536479418],
+                {
+}
+            ).addTo(marker_cluster_532dd27321073b7e78ed35cc00d7d8c6);
+        
+    
+            var icon_d679bfbc68f4d540ac3a8e3456205763 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "church",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_240b19e7ece62dc2dae439051583fd6b.setIcon(icon_d679bfbc68f4d540ac3a8e3456205763);
+        
+    
+        var popup_b66731a593fd3ec68763ffff06ba1b95 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_2d0639c5e79035ec7225375f51286155 = $(`<div id="html_2d0639c5e79035ec7225375f51286155" style="width: 100.0%; height: 100.0%;">             <b>Katukappeli[202]</b><br>             Type: Lutheran<br>             Address: Vuotie 45, Vuosaari, Helsinki<br>             Coordinates: 60.207549, 25.144872<br>             <a href="https://fi.wikipedia.org/wiki/Katukappeli" target="_blank">Wikipedia Page</a>             </div>`)[0];
+                popup_b66731a593fd3ec68763ffff06ba1b95.setContent(html_2d0639c5e79035ec7225375f51286155);
+            
+        
+
+        marker_240b19e7ece62dc2dae439051583fd6b.bindPopup(popup_b66731a593fd3ec68763ffff06ba1b95)
+        ;
+
+        
+    
+    
+            marker_240b19e7ece62dc2dae439051583fd6b.bindTooltip(
+                `<div>
+                     Katukappeli[202]
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_469e232f08b1a1821ace8d4ea46d8a13 = L.marker(
+                [66.7154369, 27.438593841932647],
+                {
+}
+            ).addTo(marker_cluster_532dd27321073b7e78ed35cc00d7d8c6);
+        
+    
+            var icon_005262b2940b2ae82529fd4e73ab79d3 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "church",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_469e232f08b1a1821ace8d4ea46d8a13.setIcon(icon_005262b2940b2ae82529fd4e73ab79d3);
+        
+    
+        var popup_b922e6354af188eee1ea8e0badd59ff2 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_36daaca54b9638a1bcb8aeace76fe81f = $(`<div id="html_36daaca54b9638a1bcb8aeace76fe81f" style="width: 100.0%; height: 100.0%;">             <b>Kemijärven kirkko[214]</b><br>             Type: Lutheran<br>             Address: Kirkkokatu 11, Kemijärvi<br>             Coordinates: 66.715437, 27.438594<br>             <a href="https://fi.wikipedia.org/wiki/Kemij%C3%A4rven_kirkko" target="_blank">Wikipedia Page</a>             </div>`)[0];
+                popup_b922e6354af188eee1ea8e0badd59ff2.setContent(html_36daaca54b9638a1bcb8aeace76fe81f);
+            
+        
+
+        marker_469e232f08b1a1821ace8d4ea46d8a13.bindPopup(popup_b922e6354af188eee1ea8e0badd59ff2)
+        ;
+
+        
+    
+    
+            marker_469e232f08b1a1821ace8d4ea46d8a13.bindTooltip(
+                `<div>
+                     Kemijärven kirkko[214]
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_fd5506aab95682aee17a82fbf5f422f6 = L.marker(
+                [62.48823255, 27.79671917533969],
+                {
+}
+            ).addTo(marker_cluster_532dd27321073b7e78ed35cc00d7d8c6);
+        
+    
+            var icon_d01428e0f3fa40d2f235a5bd1c63365c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "church",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_fd5506aab95682aee17a82fbf5f422f6.setIcon(icon_d01428e0f3fa40d2f235a5bd1c63365c);
+        
+    
+        var popup_e3767fcbf5f34b20638964a6e32c878c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_6631026b66235621e91406d899fa7d8d = $(`<div id="html_6631026b66235621e91406d899fa7d8d" style="width: 100.0%; height: 100.0%;">             <b>Leppävirran kirkko[346]</b><br>             Type: Lutheran<br>             Address: Savonkatu 19, Leppävirta<br>             Coordinates: 62.488233, 27.796719<br>             <a href="https://fi.wikipedia.org/wiki/Lepp%C3%A4virran_kirkko" target="_blank">Wikipedia Page</a>             </div>`)[0];
+                popup_e3767fcbf5f34b20638964a6e32c878c.setContent(html_6631026b66235621e91406d899fa7d8d);
+            
+        
+
+        marker_fd5506aab95682aee17a82fbf5f422f6.bindPopup(popup_e3767fcbf5f34b20638964a6e32c878c)
+        ;
+
+        
+    
+    
+            marker_fd5506aab95682aee17a82fbf5f422f6.bindTooltip(
+                `<div>
+                     Leppävirran kirkko[346]
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_aa2245aa2f21c2a890af292ce956c78f = L.marker(
+                [63.154309749999996, 27.298930193509065],
+                {
+}
+            ).addTo(marker_cluster_532dd27321073b7e78ed35cc00d7d8c6);
+        
+    
+            var icon_89bc8fb562f67047d766da6394950c32 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "church",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_aa2245aa2f21c2a890af292ce956c78f.setIcon(icon_89bc8fb562f67047d766da6394950c32);
+        
+    
+        var popup_4ee941651c93ac91575a5360ea71d124 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_8a67cdbbe5ad99b3de680fd0b600f464 = $(`<div id="html_8a67cdbbe5ad99b3de680fd0b600f464" style="width: 100.0%; height: 100.0%;">             <b>Maaningan kirkko[384]</b><br>             Type: Lutheran<br>             Address: Maaningantie 33, Maaninka, Kuopio<br>             Coordinates: 63.154310, 27.298930<br>             <a href="https://fi.wikipedia.org/wiki/Maaningan_kirkko" target="_blank">Wikipedia Page</a>             </div>`)[0];
+                popup_4ee941651c93ac91575a5360ea71d124.setContent(html_8a67cdbbe5ad99b3de680fd0b600f464);
+            
+        
+
+        marker_aa2245aa2f21c2a890af292ce956c78f.bindPopup(popup_4ee941651c93ac91575a5360ea71d124)
+        ;
+
+        
+    
+    
+            marker_aa2245aa2f21c2a890af292ce956c78f.bindTooltip(
+                `<div>
+                     Maaningan kirkko[384]
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_eae62a551c417e35bbab2d02ce8142cd = L.marker(
+                [60.63235265, 25.325871434258232],
+                {
+}
+            ).addTo(marker_cluster_532dd27321073b7e78ed35cc00d7d8c6);
+        
+    
+            var icon_2095584cdc6c3ad6fc819b1c944b22b3 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "church",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_eae62a551c417e35bbab2d02ce8142cd.setIcon(icon_2095584cdc6c3ad6fc819b1c944b22b3);
+        
+    
+        var popup_716859e43ba196695e92c1e6fc19a921 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_761e29cd627b1fec5fa24cd2b0d040fd = $(`<div id="html_761e29cd627b1fec5fa24cd2b0d040fd" style="width: 100.0%; height: 100.0%;">             <b>Mäntsälän kirkko[439]</b><br>             Type: Lutheran<br>             Address: Vanha Porvoontie 8, Mäntsälä<br>             Coordinates: 60.632353, 25.325871<br>             <a href="https://fi.wikipedia.org/wiki/M%C3%A4nts%C3%A4l%C3%A4n_kirkko" target="_blank">Wikipedia Page</a>             </div>`)[0];
+                popup_716859e43ba196695e92c1e6fc19a921.setContent(html_761e29cd627b1fec5fa24cd2b0d040fd);
+            
+        
+
+        marker_eae62a551c417e35bbab2d02ce8142cd.bindPopup(popup_716859e43ba196695e92c1e6fc19a921)
+        ;
+
+        
+    
+    
+            marker_eae62a551c417e35bbab2d02ce8142cd.bindTooltip(
+                `<div>
+                     Mäntsälän kirkko[439]
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_846a5ee4176d1b2619e214b2f2c7a085 = L.marker(
+                [67.29638852198647, 28.147589003105765],
+                {
+}
+            ).addTo(marker_cluster_532dd27321073b7e78ed35cc00d7d8c6);
+        
+    
+            var icon_7bfd8f59623cd3e8b69130def30f7f33 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "church",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_846a5ee4176d1b2619e214b2f2c7a085.setIcon(icon_7bfd8f59623cd3e8b69130def30f7f33);
+        
+    
+        var popup_9774e3d02dde16e15c7d802f50e2b207 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_cbdde8338abb447c9dc1cf1f8a2f530e = $(`<div id="html_cbdde8338abb447c9dc1cf1f8a2f530e" style="width: 100.0%; height: 100.0%;">             <b>Savukosken kirkko[628]</b><br>             Type: Lutheran<br>             Address: Samperintie 6, Savukoski<br>             Coordinates: 67.296389, 28.147589<br>             <a href="https://fi.wikipedia.org/wiki/Savukosken_kirkko" target="_blank">Wikipedia Page</a>             </div>`)[0];
+                popup_9774e3d02dde16e15c7d802f50e2b207.setContent(html_cbdde8338abb447c9dc1cf1f8a2f530e);
+            
+        
+
+        marker_846a5ee4176d1b2619e214b2f2c7a085.bindPopup(popup_9774e3d02dde16e15c7d802f50e2b207)
+        ;
+
+        
+    
+    
+            marker_846a5ee4176d1b2619e214b2f2c7a085.bindTooltip(
+                `<div>
+                     Savukosken kirkko[628]
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_33c674d5bbc5ac1ac7e88e6e066f6015 = L.marker(
+                [60.292974650000005, 25.04013823067808],
+                {
+}
+            ).addTo(marker_cluster_532dd27321073b7e78ed35cc00d7d8c6);
+        
+    
+            var icon_bb3ce86ea4321c63a6357a18e38546c2 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "church",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_33c674d5bbc5ac1ac7e88e6e066f6015.setIcon(icon_bb3ce86ea4321c63a6357a18e38546c2);
+        
+    
+        var popup_ddaa6992669dbe5a9c3af60e383450ef = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_96354d0541446b5011693b53b3071791 = $(`<div id="html_96354d0541446b5011693b53b3071791" style="width: 100.0%; height: 100.0%;">             <b>Tikkurilan kirkko[708]</b><br>             Type: Lutheran<br>             Address: Asematie 12a, Vantaa<br>             Coordinates: 60.292975, 25.040138<br>             <a href="https://fi.wikipedia.org/wiki/Tikkurilan_kirkko" target="_blank">Wikipedia Page</a>             </div>`)[0];
+                popup_ddaa6992669dbe5a9c3af60e383450ef.setContent(html_96354d0541446b5011693b53b3071791);
+            
+        
+
+        marker_33c674d5bbc5ac1ac7e88e6e066f6015.bindPopup(popup_ddaa6992669dbe5a9c3af60e383450ef)
+        ;
+
+        
+    
+    
+            marker_33c674d5bbc5ac1ac7e88e6e066f6015.bindTooltip(
+                `<div>
+                     Tikkurilan kirkko[708]
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_67f8cf8e0ae780ed5aff9da0922e4bd5 = L.marker(
+                [64.88268625, 28.906704237024698],
+                {
+}
+            ).addTo(marker_cluster_532dd27321073b7e78ed35cc00d7d8c6);
+        
+    
+            var icon_830c00745c0eaecc8c34626ae7ddd013 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "church",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_67f8cf8e0ae780ed5aff9da0922e4bd5.setIcon(icon_830c00745c0eaecc8c34626ae7ddd013);
+        
+    
+        var popup_409683ee1c81ff4d0dac8e20f640a85b = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_7f534fdec821a543d4e20d5fe180bf3a = $(`<div id="html_7f534fdec821a543d4e20d5fe180bf3a" style="width: 100.0%; height: 100.0%;">             <b>Ämmänsaaren kirkko[831]</b><br>             Type: Lutheran<br>             Address: Kirkkokuja 1, Ämmänsaari, Suomussalmi<br>             Coordinates: 64.882686, 28.906704<br>             <a href="https://fi.wikipedia.org/wiki/%C3%84mm%C3%A4nsaaren_kirkko" target="_blank">Wikipedia Page</a>             </div>`)[0];
+                popup_409683ee1c81ff4d0dac8e20f640a85b.setContent(html_7f534fdec821a543d4e20d5fe180bf3a);
+            
+        
+
+        marker_67f8cf8e0ae780ed5aff9da0922e4bd5.bindPopup(popup_409683ee1c81ff4d0dac8e20f640a85b)
+        ;
+
+        
+    
+    
+            marker_67f8cf8e0ae780ed5aff9da0922e4bd5.bindTooltip(
+                `<div>
+                     Ämmänsaaren kirkko[831]
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            marker_cluster_532dd27321073b7e78ed35cc00d7d8c6.addTo(map_5487ed274c7e5e95ccaf56bdaac2d8be);
+        
+</script>
+</html>
